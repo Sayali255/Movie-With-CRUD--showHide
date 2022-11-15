@@ -7,12 +7,6 @@
       "Rating": "5"
     },
     {
-      "id": 2,
-      "title": "Tom and Jerry",
-      "imgPath": "https://image.tmdb.org/t/p/w1280/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
-      "Rating": "5"
-    },
-    {
       "id": 4,
       "title": "Avengers: Age of Ultron",
       "imgPath": "https://image.tmdb.org/t/p/w1280//4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
@@ -52,6 +46,12 @@
       "id": 10,
       "title": "King Tweety",
       "imgPath": "https://image.tmdb.org/t/p/w1280//mGXWYbpakk8uX8OkW1ihPjVzapB.jpg",
+      "Rating": "5"
+    },
+    {
+      "id": 7,
+      "title": "Tom and Jerry Cowboy Up!",
+      "imgPath": "https://image.tmdb.org/t/p/w1280/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg",
       "Rating": "5"
     }
   ],
